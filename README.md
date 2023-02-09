@@ -1,4 +1,4 @@
-# Retail-Sales-Prediction
+# Retail Sales Prediction
 Creating a ML Model to Predict the Retail Sales
 Retail-Sales-Prediction
 ![image](https://user-images.githubusercontent.com/109582656/201204548-a8012423-ae95-4d0b-b527-97a9209c3c01.png)
